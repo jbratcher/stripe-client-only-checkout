@@ -1,0 +1,19 @@
+{
+  "name": "stripe-client-only-checkout",
+  "version": "1.0.0",
+  "description": "An example Stripe Checkout for Nuxt static pages",
+  "author": "Jeremy Bratcher",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.1"
+  }
+}
